@@ -24,3 +24,8 @@ Your challenge as a frontend dev is to code the following UIs:
 4. Assets: You can choose identical assets such as flags, Icons anywhere from the internet.
 5. Project should be in VueJS, For CSS, Vuetify is preferred, But you are free to use any CSS library/framework.
 6. Font to use: https://fonts.google.com/specimen/Inter
+7. Your code must be responsive as in the screenshots/video above.
+
+**How to deliver?**
+
+Upload your assessment to any free static hosting e.g. netlify, github pages etc. and send us the link for review.
